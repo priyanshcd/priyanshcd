@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+[Your+Name];AI+%7C+Deep+Learning+%7C+Web+Development;C+++%7C+MATLAB+%7C+ARM+Architecture;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+ PriyanshCD;AI+%7C+Deep+Learning+%7C+Web+Development;C+++%7C+MATLAB+%7C+ARM+Architecture;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,9 +48,9 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
+  <a href="https://www.linkedin.com/in/priyansh-chandra-dhar-1b55a9313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
+  <a href="mailto:priyanshcd.india@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
+  <a href="https://github.com/priyanshcd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
 ---
