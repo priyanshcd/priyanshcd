@@ -1,51 +1,75 @@
-# 👨‍💻 Welcome to My Tech Space  
-
-> *"Code is where creativity meets logic."*  
-
-Hey there! I'm **[Your Name]**, a passionate tech enthusiast who thrives on solving problems, experimenting with new technologies, and building impactful digital solutions.  
-
-This repository is a quick introduction to my **skills** and **areas of expertise**.  
+<!-- WELCOME BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+There+👋,+I'm+[Your+Name]!;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator;AI+%7C+Deep+Learning+%7C+Web+Development+%7C+ARM+Architecture" alt="Typing SVG" />
+</p>
 
 ---
 
-## ⚡ My Tech Arsenal  
-
-### 🧠 Core Strengths
-- **MATLAB** → Numerical computing, simulations, and data visualization at its finest.  
-- **C++** → High-performance coding, system-level programming, and optimized solutions.  
-- **Data Structures & Algorithms (DSA)** → Writing efficient, scalable, and clean code for complex problems.  
-
-### 🌐 Web Development
-- **HTML & CSS** → Building clean, responsive, and modern websites.  
-- **Full-Stack Web Development** → Crafting dynamic and scalable applications.  
-
-### 🤖 AI & Intelligence
-- **Deep Learning** → Neural networks, computer vision, NLP, and real-world AI applications.  
-- **Artificial Intelligence** → From algorithms to intelligent decision-making systems.  
-
-### ⚙️ Systems & Architecture
-- **ARM Architecture** → Exploring embedded systems, processors, and low-level programming.  
+## 🚀 About Me  
+🌟 Passionate about **code, creativity, and problem-solving**.  
+💡 Always exploring **cutting-edge tech** and finding ways to merge innovation with impact.  
+⚡ Turning ideas into **intelligent systems, web apps, and scalable solutions**.  
 
 ---
 
-## 🚀 Current Focus
-- Developing **AI-driven projects** that merge creativity with computation.  
-- Exploring **ARM-powered solutions** for the future of embedded intelligence.  
-- Enhancing **problem-solving skills** with advanced algorithms and system designs.  
+## 🧠 My Skills  
+
+<p align="center">
+  
+  <!-- PROGRAMMING -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  
+  <!-- WEB -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F91?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  
+  <!-- SYSTEMS -->
+  <img src="https://img.shields.io/badge/ARM%20Architecture-009688?style=for-the-badge&logo=arm&logoColor=white"/>
+  
+</p>
 
 ---
 
-## 📊 My Vision  
-I aim to build solutions that don’t just **work**, but also **inspire**.  
-Whether it’s optimizing code, building sleek web apps, or creating intelligent systems — I love bridging the gap between **imagination and implementation**.  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak & Activity  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Fun Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
 ## 🌍 Let’s Connect  
-💼 [LinkedIn](#)  
-📧 [your-email@example.com]  
-🐙 [GitHub](https://github.com/yourusername)  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ If you like what you see, feel free to **star** my repositories or connect with me. Let’s create something extraordinary together!  
+<p align="center">⭐️ If you find my work interesting, don’t forget to star my repositories!</p>
